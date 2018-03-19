@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "dataplatform.dburl",
+    "type": "java.lang.String",
+    "description": "The URL of the ExCELL-data-platform"
+  },
+  {
+    "name": "dataplatform.dbuser",
+    "type": "java.lang.String",
+    "description": "The Username for the ExCELL-data-platform"
+  },
+  {
+    "name": "dataplatform.dbpassword",
+    "type": "java.lang.String",
+    "description": "The Password for the ExCELL-data-platform"
+  }
+]}
