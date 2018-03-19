@@ -15,10 +15,25 @@
 # Maven 
 target/
 
-# eclipse project file
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Eclipse
 .settings/
 .classpath
 .project
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
 
 # Misc
 *.swp
@@ -26,3 +41,6 @@ release.properties
 pom.xml.releaseBackup
 pom.xml.tag
 hs_err_pid*
+
+
+application.properties
